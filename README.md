@@ -1,6 +1,8 @@
 # TODOclist_nim
 A simple TODO List CLI implemented in Nim after 2 hours of learning the language. (NOT INTENDED TO BE USED FOR ACTUAL PURPOSES LOL)
 
+![Not the prettiest CLI I know. But my Neovim is pretty, ok?](https://github.com/AllocatedArtist/TODOclist_nim/blob/main/example.png)
+
 Feature list
 - [x] Add/Remove tasks
 - [x] Set task status to [COMPLETE] or [INCOMPLETE]
