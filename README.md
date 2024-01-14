@@ -15,7 +15,7 @@ Furthermore, it does not handle all edge cases.
 - Save/Load file paths are hardcoded to "save_file.txt" in the directory of the exe
 - And more that aren't immediately obvious :)
 
- Nim was very easy to pick up especially for a C programmer who likes curly braces and semicolons. I feel a level of productivity with Nim that I haven't really felt using other languages. Hopefully we see me write a lot of games in Nim!
+ Nim was very easy to pick up even for a C programmer who likes curly braces and semicolons. I feel a level of productivity with Nim that I haven't really felt using other languages. Hopefully we see me write a lot of games in Nim!
 
  Oh yeah, there aren't any plans to update this lol. Sorry for the people excited about a cool modal task management cli.
 
